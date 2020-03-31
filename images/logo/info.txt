@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: FredokaOne-Regular
+font link: https://fonts.google.com/specimen/Fredoka+One
+font author: Milena Brandao
+font author site: mailto:milenabbrandao@gmail.com
+Slogan Font: FredokaOne-Regular
+
+icon designer: Edward Boatman
+icon designer link: /edward
+        
+{"bg":"#111F51","icon":"#19CEDA","font":"#19CEDA","slogan":"#2de2ee"}
+      
